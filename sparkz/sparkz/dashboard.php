@@ -11,9 +11,7 @@
 
 
 			</ol>
-		</div><!--  SparkzHotelo Project by
- Nikhil Bhalerao: Freelancer from India
- For Any Project Development Contact on ndbhalerao91@gmail.com OR Whats app +919423979339 -->
+		</div>
 
 		
 		<div class=" panel-container">

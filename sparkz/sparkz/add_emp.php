@@ -4,10 +4,7 @@
         
             <li class="active"><h1>Add Employee</h1></li>
         </ol>
-    </div> <!--  Sparkz Hotelo Project by
- Nikhil Bhalerao : Freelancer from India
- For Any Project Development Contact on ndbhalerao91@gmail.com OR call +919423979339 -->
-
+    
     <div class="row">
         <div class="col-lg-12">
             <div class="panel panel-default">
@@ -114,11 +111,6 @@
     </div>
 
     
-
-</div>     <!--  SparkzHotelo Project by
- Nikhil Bhalerao: Freelancer from India
- For Any Project Development Contact on ndbhalerao91@gmail.com OR Whats app +919423979339 -->
-
 
 
 
